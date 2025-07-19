@@ -2,9 +2,9 @@
 Este projeto tem como objetivo desenvolver uma calculadora simples com interface gráfica utilizando Python. A proposta é aprimorar minhas habilidades em desenvolvimento de interfaces interativas, explorando bibliotecas como tkinter e conceitos de lógica de programação.
 
 Aprendizados:
-Criação de janelas, botões e eventos em GUI
-Organização de código com funções
-Uso prático de estruturas condicionais e operadores matemáticos
+Criação de janelas, botões e eventos em GUI.
+Organização de código com funções.
+Uso prático de estruturas condicionais e operadores matemáticos.
 
 A interface inclui:
 - Campo de entrada para os números
