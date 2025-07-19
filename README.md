@@ -13,4 +13,4 @@ A interface inclui:
 - Área de exibição do resultado
 
 Calculadora funcionando:
-<img width="390" height="323" alt="Captura de tela 2025-07-19 120900" src="https://github.com/user-attachments/assets/666b3f12-48f1-4d78-976d-74ef285f3c7c" />
+<img width="312" height="259" alt="Captura de tela 2025-07-19 120900" src="https://github.com/user-attachments/assets/666b3f12-48f1-4d78-976d-74ef285f3c7c" />
